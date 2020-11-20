@@ -1,0 +1,6 @@
+pickle
+face_recognition
+imutils
+opencv-python
+flask 
+requests
