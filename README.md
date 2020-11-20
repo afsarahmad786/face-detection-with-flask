@@ -10,6 +10,7 @@ $ pip install -r requirements.txt
 
 ```
 In this Project we are going to detect Faces With <strong>HAAR CASCADE</strong> which detect Multi faces from live camera and detect all the faces in the frame<br>
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Haar Cascade
